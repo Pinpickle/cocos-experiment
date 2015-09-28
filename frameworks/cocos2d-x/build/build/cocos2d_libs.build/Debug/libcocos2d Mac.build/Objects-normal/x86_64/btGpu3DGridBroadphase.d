@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h

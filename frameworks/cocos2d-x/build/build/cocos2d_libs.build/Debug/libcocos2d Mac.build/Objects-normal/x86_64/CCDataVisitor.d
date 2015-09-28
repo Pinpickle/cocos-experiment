@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/cocos/base/CCDataVisitor.cpp \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/deprecated/CCBool.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/base/CCDataVisitor.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/deprecated/CCInteger.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/base/ccRandom.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/platform/CCCommon.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/deprecated/CCFloat.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/deprecated/CCDouble.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/deprecated/CCString.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/deprecated/CCArray.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/base/ccCArray.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/deprecated/CCDictionary.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/base/uthash.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/deprecated/CCSet.h

@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/external/unzip/ioapi.cpp \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/external/unzip/ioapi.h \
+  /Users/christian/Code/games/cocos-experiment/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h
